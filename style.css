@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+}
+.header2{
+    height: 200px;
+    width: 1920px;
+    background-color: rgba(0, 0, 0, 0.574);
+    margin: auto;
+}
+
+h2{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.img1{
+    height: 100px;
+    width: 100px;
+    padding-left: 98px ;
+    padding-top: 24px;
+}
+.company_name{
+    color: white;
+    padding-top: 10px;
+    padding-left: 48px;
+    font-family: sans-serif;
+    margin: 0;
+    font-weight: 100;
+    
+}
+.about{
+    display: inline;
+    margin-left: 70px;
+    float: auto;
+}
+.icon{
+    float: left;
+}
+a:hover{
+    color: rgb(2, 178, 2);
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: 100;
+    display: inline;
+}
+.img2{
+    float: right;
+    height: 70px;
+    width: 70px;
+    display: inline;
+    margin-right: 20px;
+}
+.header{
+    width: 1920px;
+    height: 1000px;
+    background-size: 100% 100%;
+    background-image: url(https://phonoteka.org/uploads/posts/2021-06/1624622947_8-phonoteka_org-p-kriptovalyuta-oboi-krasivo-8.jpg);
+}
+form{
+    margin: 150px 0px 0px 1420px;
+    background-color: rgba(0, 0, 0, 0.574); ;
+    width: 452px;
+    height: 489px;
+    border: none;
+    text-align: center;
+}
+.form-text{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 100;
+}
+.info{
+    background-color: transparent;
+    color: white;
+    border: none;
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    border-radius: 4%;
+}
+.line{
+    color: transparent;
+    text-decoration: solid white overline;
+}
+#log_in{
+    width: 300px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+.main{
+    width: 1920px;
+}
+.super{
+    font-family: sans-serif;
+    text-align: center;
+}
+.graf{
+    height: 240px;
+    width: 450px;
+    float: left;
+    margin-left: 130px;
+}
+.about1{
+    font-family: sans-serif;
+    font-size: x-large;
+    padding: 20px 0px 0px 30px;
+}
+.img3{
+    margin-top: 40px;
+    width: 1920px;
+    height: 500px;
+    position: absolute;
+    background-image: url(https://focus.ua/static/storage/thumbs/920x465/7/42/68eb3a9f-6ac8f15601bfb1e1307e29e8e1304427.jpg?v=1794_1);
+    background-repeat: no-repeat;
+    background-size: 1920px 500px;
+}
+.signal{
+    height: 190px;
+    width: 220px;
+    float: auto;
+    display: inline;
+    margin: 0px 0px 0px -470px;
+}
+.text1{
+    color: white;
+    font-family: sans-serif;
+    font-size: x-large;
+    margin-right: 500px;
+}
+.signals{
+    width: 470px;
+    height: 600px;
+    text-align: center;
+    margin: auto;
+    display: inline;
+    margin-left: 850px;
+}
+.uslugi{
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+.signal1{
+    height: 190px;
+    width: 220px;
+    display: inline;
+    position: absolute;
+    float: left;
+    margin-left: 320px ;
+}
+#text2{
+    float: right;
+    color: white;
+    font-family: sans-serif;
+    margin-right: 280px;
+    font-size: xx-large;
+    margin-top: -80px;
+}
+.signal2{
+    height: 190px;
+    width: 220px;
+    display: inline;
+    float: left;
+    margin-left: 250px;
+}
+.text3{
+    color: white;
+    font-family: sans-serif;
+    font-size: xx-large;
+    display: block;
+    float: left;
+    margin-left: 180px;
+}
+.void{
+    width: 1920px;
+    height: 1400px;
+}
+.footer{
+    background-color: black;
+    width: 1920px;
+    height: 300px;
+}
+.img4{
+    height: 100px;
+    width: 400px;
+    margin-top: 36px;
+    margin-left:77px ;}
+.img22{
+    height: 70px;
+    width: 70px;
+    display: inline;
+    margin-left: 85px;
+    margin-top: 30px;
+}
+.about2{
+    display: inline;
+    margin-left: 100px;
+    float: auto;
+}
+.qwe{
+    margin-left: 900px;
+}
+.rights{
+    color: white;
+    font-family: sans-serif;
+    font-size: x-large;
+    float: right;
+    margin-left:-40px ;
+    margin: 50px;
+}
